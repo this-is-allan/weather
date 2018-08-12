@@ -23,8 +23,13 @@
 2. Move to the appropriate directory: `cd weather`<br />
 3. Run `npm install` or `yarn` in order to install dependencies<br />
 4. Run `npm start` or `yarn start` to run the app.
+5. Go to `public/index.html` at line 24, uncomment and add your Google Maps API key.
+6. Comment line 25
 
 Now you're ready to get a five-day forecast in your favorite cities!
+
+## Get a Google Maps API key
+https://developers.google.com/maps/documentation/javascript/get-api-key
 
 ## Author
 
